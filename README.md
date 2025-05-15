@@ -51,13 +51,6 @@ The goal is to automate and improve the autism screening process by identifying 
 
 ---
 
-## 🚧 Future Work / Not Implemented
-
-* **Eye Contact Tracking:** No camera-based detection yet.
-* **Speech/Gesture Analysis:** No video-based gesture/speech delay analysis.
-* **Multimodal Fusion:** Each modality is analyzed separately; future goal is integration into a unified AI model.
-
----
 
 ## 📂 File Descriptions
 
